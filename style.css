@@ -1,11 +1,11 @@
 @font-face {
     font-family: "myriad";
-    src: url('../fonts/myriadpro-bold.otf');
+    src: url('myriadpro-bold.otf');
 }
 
 @font-face {
     font-family: "led";
-    src: url('../fonts/enhanced_led_board-7.ttf');
+    src: url('enhanced_led_board-7.ttf');
 }
 @font-face {
     font-family: "fare";
