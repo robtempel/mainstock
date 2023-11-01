@@ -274,13 +274,13 @@ canvas {
 }
 
 .abretime{
+    font-family: "led2";
     background-color: rgb(70, 69, 62);
     width: 162px;
     color: yellow;
     text-align: right;
     padding-left: 4px;
     padding-right: 2px;
-    font-family: "led2";
     position: absolute;
     left: 730px;
     border-radius: 5px;
@@ -289,13 +289,13 @@ canvas {
 }
 
 .cierratime{
+    font-family: "led2";
     background-color: rgb(70, 69, 62);
     width: 162px;
     color: yellow;
     text-align: right;
     padding-left: 4px;
     padding-right: 2px;
-    font-family: "led2";
     position: absolute;
     left: 730px;
     border-radius: 5px;
