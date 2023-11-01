@@ -414,7 +414,7 @@ function metergrafico(){
   ctx.beginPath();
   ctx.moveTo(acomodador(iniciosycierres.inicioNY3 + husos.newyork), 18);
   ctx.lineTo(acomodador(iniciosycierres.finNY3 + husos.newyork), 18);
-
+  ctx.stroke();
 
   if(nY[0].operation == "OPERANDO" && new Date(new Date().toLocaleString('en-US', { timeZone: 'America/New_York', hour12: false })).getDay() == 4){
     ctx.strokeStyle = operandoOK
