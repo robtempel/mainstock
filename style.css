@@ -4,16 +4,8 @@
 }
 
 @font-face {
-    font-family: "led";
-    src: url('enhanced_led_board-7.ttf');
-}
-@font-face {
-    font-family: "fare";
-    src: url('../fonts/fanfareticker.ttf');
-}
-@font-face {
     font-family: "led2";
-    src: url('../fonts/led_board-7.ttf');
+    src: url('fonts/led_board-7.ttf');
 }
 
 
